@@ -27,7 +27,7 @@ Hello👋
       background-color:red;
   </style>
   </head><body>
-  <a href="https://www.instagram.com/ch_ota_pandit9121?igsh=MXRlbnc2MGY5dnFmbg=="class="button">INSTAGRAM</a>
+  <a href="https://www.instagram.com/ch_ota_pandit9121?igsh=MXRlbnc2MGY5dnFmbg=="class"button">INSTAGRAM</a>
     <a href="https://youtube.com/@krishnakanttiwari8040?si=UAzTv18LDU17A7VP"class="button">YOUTUBE</a>
 </body>
-</html
+</html>
