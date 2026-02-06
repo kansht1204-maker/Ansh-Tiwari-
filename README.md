@@ -187,7 +187,7 @@
         <div class="section">
             <h2>Social Media</h2>
             <div class="social-links">
-                <a href="___---" target="_blank" class="youtube">
+                <a href="https://youtube.com/@krishnakanttiwari8040?si=UAzTv18LDU17A7VP" target="_blank" class="youtube">
                     ▶ YouTube Channel
                 </a>
 
