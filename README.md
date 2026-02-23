@@ -228,7 +228,7 @@
 <div class="profile-card">
 
     <div class="profile-header">
-        <img src="/storage/emulated/0/MIUI/ShareMe/IMG_20230729_150239.jpg" alt="Profile">
+        <img src="/storage/emulated/0/DCIM/aman phone/IMG_20250719_125940.jpg" alt="Profile">
         <h1>Ansh Krishnakant Tiwari</h1>
         <p>Student | Coding Learner | Gamer</p>
     </div>
